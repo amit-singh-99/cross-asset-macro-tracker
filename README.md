@@ -51,8 +51,13 @@ When a "Hot" CPI (Inflation higher than expected) hits the wires, this tracker i
 3. .gitignore: Standard Python configuration to exclude local environments and caches.
 4. LICENSE: MIT License.
 
+📝 Example Output
+Below is a sample of the normalized performance following a simulated CPI release. Notice the immediate divergence at the T=0 mark.
+
 Author: Amit Singh
 Email: amitsinghjobs99@gmail.com
 LinkedIn: https://www.linkedin.com/in/amit-singh99/
 
 Disclaimer: This tool is for educational and research purposes only and does not constitute financial advice.
+<img width="1340" height="525" alt="newplot" src="https://github.com/user-attachments/assets/723ea783-1a91-4da0-94a3-13c5e965c66e" />
+
